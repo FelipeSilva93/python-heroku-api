@@ -1,0 +1,5 @@
+A API
+
+  - Terá apenas um endpoint definido por "/"
+  - O endpoint dará duas respostas dependendo da requisição
+  
