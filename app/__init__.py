@@ -15,7 +15,7 @@ def create_app():
                 "mensagem": 'não entre em panico'
             })
 
-    @app.route('/about'):
+    @app.route('/about')
     def about():
         return 'About Us'
     
