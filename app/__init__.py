@@ -18,5 +18,9 @@ def create_app():
     @app.route('/about')
     def about():
         return 'About Us'
-    
+
+    @app.route('/add')
+    def add():
+        return 'Hello from add page'
+
     return app
