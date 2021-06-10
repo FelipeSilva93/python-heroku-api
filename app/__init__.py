@@ -14,3 +14,5 @@ def create_app():
             return jsonify({
                 "mensagem": 'não entre em panico'
             })
+
+    return app
