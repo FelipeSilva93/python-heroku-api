@@ -92,8 +92,8 @@ watchdog = ["watchdog"]
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.9"
-content-hash = "1a429efe366f69b9ebe4f243f95d63691558ab84e0b8ca74d94b2eb86af4ad60"
+python-versions = "3.9.2"
+content-hash = "c1ad018870706c0b9a6a2991569fe4e954d2fec30bf7d074e96e4e0abc0c223b"
 
 [metadata.files]
 click = [
